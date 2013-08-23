@@ -1,0 +1,21 @@
+[
+{
+  "modid": "nogrid",
+  "name": "No Grid",
+  "description": "A completely useless mod. You don't miss a good thing til its gone..",
+  "version": "v1.0",
+  "mcversion": "1.6.2",
+  "url": "https://github.com/KeplerGaming/NoGrid,
+  "updateUrl": "",
+  "authors": [
+    "crazyputje"
+  ],
+  "credits": "By crazyputje, based on an original idea by serpentic",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]

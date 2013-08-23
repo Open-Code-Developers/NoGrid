@@ -10,7 +10,7 @@ Installing
 - Install MinecraftForge for Minecraft 1.6.2 (9.10.0.840 recommended)
 - Place this mod in the mods folder
 
-Screenshots & Explanations
+Explanation
 ====
 
 **No Grid HotKey** - G
